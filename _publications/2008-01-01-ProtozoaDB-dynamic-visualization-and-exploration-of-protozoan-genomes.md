@@ -1,9 +1,9 @@
 ---
-title: "ProtozoaDB: dynamic visualization and exploration of protozoan genomes."
+title: "Polyketide synthase gene diversity within the microbiome of the sponge Arenosclera brasiliensis, endemic to the Southern Atlantic Ocean."
 collection: publications
-permalink: /publication/2008-01-01-ProtozoaDB-dynamic-visualization-and-exploration-of-protozoan-genomes
-date: 2008-01-01
-venue: 'Nucleic acids research'
-citation: ' Alberto Dávila,  Pablo Mendes,  Glauber Wagner,  Diogo Tschoeke,  Rafael Cuadrat,  Felipe Liberman,  Luciana Matos,  Thiago Satake,  Kary Ocaña,  Omar Triana,  Sérgio Cruz,  Henrique Jucá,  Juliano Cury,  Fabricio Silva,  Guilherme Geronimo,  Margarita Ruiz,  Eduardo Ruback,  Floriano Silva,  Christian Probst,  Edmundo Grisard,  Marco Krieger,  Samuel Goldenberg,  Maria Cavalcanti,  Milton Moraes,  Maria Campos,  Marta Mattoso, &quot;ProtozoaDB: dynamic visualization and exploration of protozoan genomes..&quot; Nucleic acids research, 2008.'
+permalink: /publication/2013-01-Polyketide-synthase-gene-diversity-within-the-microbiome-of-the-sponge-Arenosclera-brasiliensis,-endemic-to-the-Southern-Atlantic-Ocean
+date: 2013-01-01
+venue: 'Applied and Environmental Microbiology'
+citation: ' AAmaro E Trindade-Silva, Cintia PJ Rua, Bruno GN Andrade, Ana Carolina Paulo Vicente, Genivaldo GZ Silva, Roberto GS Berlinck, Fabiano L Thompson, &quot;Polyketide synthase gene diversity within the microbiome of the sponge Arenosclera brasiliensis, endemic to the Southern Atlantic Ocean..&quot; Applied and Environmental Microbiolog, 2013.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=ProtozoaDB:+dynamic+visualization+and+exploration+of+protozoan+genomes.){:target="_blank"} for full citation 
+Use [Google Scholar](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&q=Polyketide+synthase+gene+diversity+within+the+microbiome+of+the+sponge+Arenosclera+brasiliensis%2C+endemic+to+the+Southern+Atlantic+Ocean&btnG=.){:target="_blank"} for full citation 
