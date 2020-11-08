@@ -27,8 +27,8 @@ Work experience
   * Project: Microbiome diversity of Nelore steers compared to different diets and its influence in production characteristics and methane emission
   * Supervisor: Dr. Luciana Correia de Almeida Regitano
   
-* October 2016 -- September 2017: -	Bioinformatic Scientist 
-  * Laboratory of Research in Leishmaniasis, Oswaldo Cruz Institute
+* October 2016 -- September 2017: -	Bioinformatics Scientist 
+  * EMBRAPA - Southeast livestock
   * Duties included: Developed pipelines for omics analyses, training researchers on bioinformatics and programming (Python), data analysis, interpretation and visualization 
   * Supervisor: Dr. Luciana Correia de Almeida Regitano
   
