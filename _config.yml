@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Rafael Cuadrat"
+title                    : "Dr. Bruno Andrade"
 title_separator          : "-"
-name                     : &name "Dr. Rafael Cuadrat"
+name                     : &name "Dr. Bruno Andrade"
 description              : &description "Bioinformatician and Data Scientist"
 url                      : https://rcuadrat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rcuadrat/rcuadrat.github.io"
+repository               : "brunoand/brunoand.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Rafael Cuadrat"
+  name             : "Dr. Bruno Andrade"
   avatar           : "profile.jpg"
-  bio              : "Bioinformatician, 15 years of experience working on genomics, evolution, metagenomics, RNAseq, variant calling, metabarcoding. 
-                      Fluent in Python, Ruby, R with some experience with Perl and SQL. Currently working with omics data for molecular epidemiology."
-  location         : "Berlin, Germany"
+  bio              : "Bioinformatician and Data Scientist with 10 years of experience working on genomics, evolution, metagenomics, RNAseq, metabarcoding and its association with diseases/phenotypes. 
+                      Fluent in Python with some experience with R and SQL. Currently working with Agritech projects involving deep sequencing metagenoomics, metabarcoding, host phenotypes and Artificial Intelligence."
+  location         : "Cork, Ireland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cuadrat+rafael"
-  googlescholar    : "https://scholar.google.com/citations?user=YdvBNigAAAAJ&hl"
-  email            : "Rafael.Cuadrat@dife.de"
-  researchgate     :  "https://www.researchgate.net/profile/Rafael_Cuadrat"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Andrade+BG"
+  googlescholar    : "https://scholar.google.com/citations?user=SpLN7XgAAAAJ&hl=pt-BR"
+  email            : "bruno.andrade@adaptcentre.ie"
+  researchgate     :  "https://www.researchgate.net/profile/Bruno_Nascimento_Andrade"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rcuadrat"
+  github           : "brunoand"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rafael-cuadrat-aa6a6230"
-  orcid            : "http://orcid.org/0000-0001-8289-2599"
+  orcid            : "https://orcid.org/0000-0003-2481-401X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "rafaelcuadrat"
+  twitter          : "bioinfo_gabriel"
   vine             :
   weibo            :
   xing             :
