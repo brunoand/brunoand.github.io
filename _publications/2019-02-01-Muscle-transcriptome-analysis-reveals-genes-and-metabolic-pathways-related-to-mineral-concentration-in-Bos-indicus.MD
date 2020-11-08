@@ -1,8 +1,8 @@
 ---
 title: "Muscle transcriptome analysis reveals genes and metabolic pathways related to mineral concentration in Bos indicus."
 collection: publications
-permalink: /publication/2019-02-Muscle-transcriptome-analysis-reveals-genes-and-metabolic-pathways-related-to-mineral-concentration-in-Bos-indicus.
-date: 2019-02
+permalink: /publication/2019-02-01-Muscle-transcriptome-analysis-reveals-genes-and-metabolic-pathways-related-to-mineral-concentration-in-Bos-indicus.
+date: 2019-02-01
 venue: 'Frontiers in Genetics'
 citation: ' Afonso J, Coutinho LL, Tizioto PC, da Silva Diniz WJ, de Lima AO, Rocha MIP, Buss CE, Andrade BGN, Piaya O, da Silva JV, Lins LA, Gromboni CF, Nogueira ARA, Fortes MRS, Mourao GB, de Almeida Regitano LC, &quot;Muscle transcriptome analysis reveals genes and metabolic pathways related to mineral concentration in Bos indicus.&quot; Frontiers in Genetics, 2019.'
 ---
