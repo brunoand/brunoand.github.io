@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Bitechnology, State University of the West Zone, 2009
+* B.S. in Biotechnology, State University of the West Zone, 2009
 * M.S. in Computational and System Biology, Oswaldo Cruz Foundation, 2012   
 * Ph.D in Computational and System Biology, Oswaldo Cruz Foundation, 2016 
 
