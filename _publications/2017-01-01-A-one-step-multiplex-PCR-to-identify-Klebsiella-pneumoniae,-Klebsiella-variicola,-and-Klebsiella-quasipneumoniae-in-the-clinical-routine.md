@@ -1,8 +1,8 @@
 ---
 title: "A one-step multiplex PCR to identify Klebsiella pneumoniae, Klebsiella variicola, and Klebsiella quasipneumoniae in the clinical routine."
 collection: publications
-permalink: /publication/2017-01-A-one-step-multiplex-PCR-to-identify-Klebsiella-pneumoniae,-Klebsiella-variicola,-and-Klebsiella-quasipneumoniae-in-the-clinical-routine
-date: 2017-01
+permalink: /publication/2017-01-01-A-one-step-multiplex-PCR-to-identify-Klebsiella-pneumoniae,-Klebsiella-variicola,-and-Klebsiella-quasipneumoniae-in-the-clinical-routine
+date: 2017-01-01
 venue: 'Diagnostic Microbiology and Infectious Disease'
 citation: ' Erika Fonseca, Nilceia Ramos, Bruno Gabriel N Andrade, Ana Carolina P Vicente, &quot;A one-step multiplex PCR to identify Klebsiella pneumoniae, Klebsiella variicola, and Klebsiella quasipneumoniae in the clinical routine..&quot; Diagnostic Microbiology and Infectious Disease, 2017.'
 ---
