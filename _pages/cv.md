@@ -11,31 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biomedicine, Federal University from Rio de Janeiro State, 2007
-* M.S. in Cellular and Molecular Biology, Oswaldo Cruz Foundation, 2010   
-* Ph.D in Computational and System Biology, Oswaldo Cruz Foundation, 2014 
+* B.S. in Bitechnology, State University of the West Zone, 2009
+* M.S. in Computational and System Biology, Oswaldo Cruz Foundation, 2012   
+* Ph.D in Computational and System Biology, Oswaldo Cruz Foundation, 2016 
 
 Work experience
 ======
-* January 2019 -- current position: -	Post-doctoral Scientist 
-  * German Institute of Human Nutrition Potsdam-Rebrucke, Department of Molecular Epidemiology
-  * Project: Gut microbial diversity association with arterial stiffness in EPIC-Potsdam DZD cohort
-  * Supervisor: Prof. Dr. Matthias Schulze
+* November 2020 -- current position: -	Marie Curie funded Post-doctoral fellow
+  * Cork Institute of Technology, Department of Computer Science
+  * Project: Prediction of host phenotypic outcomes with Machine Learning
+  * Supervisor: Prof. Dr. Haithem Afli
 
-* January 2017 -- December 2018: -	Bioinformatics Scientist 
-  * Max Planck Institute for Biology of Aging, Bioinformatics Core Facility
-  * Duties included: Developed pipelines for omics analyses, training researchers on bioinformatics and programming (Python), data analysis, interpretation and visualization 
-  * Supervisor: Dr. Jorge Boucas
+* March 2017 -- October 2020: -	Post-doctoral fellow
+  * EMBRAPA - Southeast livestock
+  * Project: Microbiome diversity of Nelore steers compared to different diets and its influence in production characteristics and methane emission
+  * Supervisor: Dr. Luciana Correia de Almeida Regitano
   
-* September 2015 -- December 2016: -	Post-doctoral Scientist 
-  * Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB) and Berlin Center for Genomics in Biodiversity Research
-  * Project: Recovering Genomics Clusters of Secondary Metabolites from Lakes Using Genome-Resolved Metagenomics 
-  * Supervisor: Prof. Dr. Hans-Peter Grossart
-  
-* August 2014 -- August 2015: -	Post-doctoral Scientist 
+* October 2016 -- September 2017: -	Bioinformatic Scientist 
   * Laboratory of Research in Leishmaniasis, Oswaldo Cruz Institute
-  * Project: Genome sequencing, assembly and annotation of 24 Leishmania strains from the New World
-  * Supervisor: Dr. Elisa Cupolillo
+  * Duties included: Developed pipelines for omics analyses, training researchers on bioinformatics and programming (Python), data analysis, interpretation and visualization 
+  * Supervisor: Dr. Luciana Correia de Almeida Regitano
   
 Skills
 ======
@@ -50,7 +45,7 @@ Skills
   
 * Critical Thinking
 * Leadership
-* Agile develpment
+* Agile development
 
 Publications
 ======
