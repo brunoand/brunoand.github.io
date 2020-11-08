@@ -1,8 +1,8 @@
 ---
 title: "Global ocean resistome revealed: Exploring antibiotic resistance gene abundance and distribution in TARA Oceans samples."
 collection: publications
-permalink: /publication/2020-01-Global-ocean-resistome-revealed:-Exploring-antibiotic-resistance-gene-abundance-and-distribution-in-TARA-Oceans-samples.
-date: 2020-01
+permalink: /publication/2020-01-01-Global-ocean-resistome-revealed:-Exploring-antibiotic-resistance-gene-abundance-and-distribution-in-TARA-Oceans-samples.
+date: 2020-01-01
 venue: 'GigaScience'
 citation: ' Cuadrat RRC, Sorokina M, Andrade BGN, Dávila AMR, &quot;Global ocean resistome revealed: Exploring antibiotic resistance gene abundance and distribution in TARA Oceans samples.&quot; GigaScience, 2020.'
 ---
