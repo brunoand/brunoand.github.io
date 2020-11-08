@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Bruno Andrade"
-  avatar           : "profile2.jpg"
+  avatar           : "profile.jpg"
   bio              : "Bioinformatician and Data Scientist with 10 years of experience working on genomics, evolution, metagenomics, RNAseq, metabarcoding and its association with diseases/phenotypes. 
                       Fluent in Python with some experience with R and SQL. Currently working with Agritech projects involving deep sequencing metagenoomics, metabarcoding, host phenotypes and Artificial Intelligence."
   location         : "Cork, Ireland"
