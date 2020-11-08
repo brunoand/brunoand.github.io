@@ -2,7 +2,7 @@
 title: "The genome of a clinical Klebsiella variicola strain reveals virulence-associated traits and a pl9-like plasmid."
 collection: publications
 permalink: /publication/2014-02-The-genome-of-a-clinical-Klebsiella-variicola-strain-reveals-virulence-associated-traits-and-a-pl9-like-plasmid
-date: 2014-02-01
+date: 2014-02
 venue: 'FEMS microbiology letters'
 citation: ' Bruno Gabriel N Andrade, Michel F Abanto Marin, Diego Duque Cambuy, Erica Lourenço Fonseca, Nadjla Ferreira Souza, Ana Carolina P Vicente, &quot;The genome of a clinical Klebsiella variicola strain reveals virulence-associated traits and a pl9-like plasmid..&quot; Plos One, 2014.'
 ---
