@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Bruno Andrade"
-  avatar           : "profile.jpg"
+  avatar           : "profile2.jpg"
   bio              : "Bioinformatician and Data Scientist with 10 years of experience working on genomics, evolution, metagenomics, RNAseq, metabarcoding and its association with diseases/phenotypes. 
                       Fluent in Python with some experience with R and SQL. Currently working with Agritech projects involving deep sequencing metagenoomics, metabarcoding, host phenotypes and Artificial Intelligence."
   location         : "Cork, Ireland"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rafael-cuadrat-aa6a6230"
+  linkedin         : "https://www.linkedin.com/in/bruno-gn-andrade/"
   orcid            : "https://orcid.org/0000-0003-2481-401X"
   pinterest        :
   soundcloud       :
