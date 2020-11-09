@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduated students course"
 permalink: /teaching/2017-Genomic-data-analysis-using-High-perfomance-computers
 venue: "Oswaldo Cruz Institute"
-date: 2017-22-11
+date: 2017-11-22
 location: "Minas Gerais, Brazil"
 ---
 
