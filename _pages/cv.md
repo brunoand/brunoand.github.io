@@ -34,15 +34,13 @@ Work experience
   
 Skills
 ======
-* Molecular Biology
 * Bioinformatics
   * NGS data analysis
   * Statistical Analysis
   * Machine Learning
   * Comparative Genomics
   * Pipeline development (Python, R, Bash)
-  * Database development (SQL)
-  
+
 * Critical Thinking
 * Leadership
 * Agile development
