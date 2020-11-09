@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Biotechnology, State University of the West Zone, 2009
-* M.S. in Computational and System Biology, Oswaldo Cruz Foundation, 2012   
-* Ph.D in Computational and System Biology, Oswaldo Cruz Foundation, 2016 
+* M.S. in Computational Biology and Systems, Oswaldo Cruz Institute, 2012   
+* Ph.D in Computational Biology and Systems, Oswaldo Cruz Institute, 2016 
 
 Work experience
 ======
@@ -36,6 +36,7 @@ Skills
 ======
 * Bioinformatics
   * NGS data analysis
+  * Microbiome data analysis
   * Statistical Analysis
   * Machine Learning
   * Comparative Genomics
